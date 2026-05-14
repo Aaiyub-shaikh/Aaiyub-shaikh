@@ -1,4 +1,4 @@
 # Hi, I'm Aaiyub 👋
+🎓 Computer Engineering Student
 
---🎓 Computer Engineering Student
---🚀 Interested in AI, Web Development & Data science
+🚀 Interested in AI, Web Development & Data science
